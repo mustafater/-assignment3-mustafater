@@ -1,0 +1,9 @@
+1. Symfony kullanmak  ekibimize yeni biri katıldıgında  adapte olması  kolay olur çünkü dosya yapısını önceden bilir. Symfony gelişmiş bir frameworktur bu yüzden uygulama geliştirmesi daha hızlıdır. 
+Bize ayrıntılı biçimde hata bildirimi yapar. Symfony arkasında duran geliştiren  firmalar ve deleloper vardır. Symfony bize esneklik sunar  istedigin özellikleri ekleyip çıkartabiliriz. Symfony devamlı
+güncel yapısını ve güvenilirlik bize sunar.
+2. "https://symfony.com/doc/current/configuration.html" sitesinde   .env  dosyasından ayarlama yapmamız mümkün ve config/ altında  yaml ve php dosyaları ayarlama yapabiliyormuşuz.
+3. composer create-project symfony/website-skeleton:"^4.4" my_project_name  komutu kullanarak yeni bir proje oluşturabiliriz. Sitesinde birkaç kurulum önerileri mevcut
+4. Laravel benim gözlemlediğim daha fazla kullanıcı sikayet ederdi. Symfony topluluklar tarafından daha fazla begenilirdi. Hatta laravel geliştiricisi çok eleştiri vardı. Symfonty Twing şablon kullanır.
+Larevel  blade şablonunu kullanır. veritabanı erişimleri  biri doctrine digeri ise eloquent kullanır.
+5.Localhost'ta projeyi çalıştırmamız için bize yol gösteriyor. https://symfony.com/doc/4.4/setup/web_server_configuration.html
+
